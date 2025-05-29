@@ -1,0 +1,3 @@
+Before update id payload is  {'id': 5473073202, 'category': {'id': 97, 'name': 'common'}, 'name': 'Timothy', 'photoUrls': ['https://dummyimage.com/593x740'], 'tags': [{'id': 9, 'name': 'add'}], 'status': 'available'}
+updated id payload is  {'id': 5473073202, 'category': {'id': 51, 'name': 'back'}, 'name': 'Scott', 'photoUrls': ['https://dummyimage.com/925x295'], 'tags': [{'id': 28, 'name': 'trouble'}], 'status': 'pending'}
+****************Not equal assertions passed*************

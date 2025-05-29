@@ -1,0 +1,4 @@
+The response data is {'code': 200, 'type': 'unknown', 'message': '5473073202'}
+404
+json is {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+****************delete assertions passed*************

@@ -1,0 +1,7 @@
+The response data is {'code': 200, 'type': 'unknown', 'message': '2689758134'}
+200
+json is {'id': 2689758134, 'category': {'id': 100, 'name': 'analysis'}, 'name': 'Kaitlin', 'photoUrls': ['https://placekitten.com/433/29'], 'tags': [{'id': 49, 'name': 'help'}], 'status': 'sold'}
+The response data is {'code': 200, 'type': 'unknown', 'message': '2689758134'}
+404
+json is {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+****************delete assertions passed*************

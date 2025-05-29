@@ -1,0 +1,2 @@
+pet id 5473073202
+json data {'id': 5473073202, 'category': {'id': 97, 'name': 'common'}, 'name': 'Timothy', 'photoUrls': ['https://dummyimage.com/593x740'], 'tags': [{'id': 9, 'name': 'add'}], 'status': 'available'}

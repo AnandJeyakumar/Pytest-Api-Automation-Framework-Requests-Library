@@ -1,0 +1,2 @@
+pet id 2689758134
+json data {'id': 2689758134, 'category': {'id': 100, 'name': 'analysis'}, 'name': 'Kaitlin', 'photoUrls': ['https://placekitten.com/433/29'], 'tags': [{'id': 49, 'name': 'help'}], 'status': 'sold'}

@@ -1,3 +1,5 @@
+import requests
+
 from utilities import requests_helper
 from utilities import assertions
 from utilities.data_generator import generate_random_post_pet_payload,updatePet
@@ -52,7 +54,6 @@ def test_delete_pet(new_pet_id):
     get_json_data = get_response.json()
     assertions.delete_responsebody_assertions(get_json_data)
     assert get_response.status_code == 404, "status code mismatch"
-
 
 
 
